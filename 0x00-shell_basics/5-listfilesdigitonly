@@ -1,2 +1,2 @@
 #!/bin/bash
-lss -na
+ls -na
